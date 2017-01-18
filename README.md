@@ -31,7 +31,7 @@ This will give you a graph of Top 5 languages that are used for tweets related t
 
 Further, another graph will tell you Top 5 countries that are tweeting about Trump and Hillary.
 
-5. Sentiment Analysis
+#Sentiment Analysis
 
 We have 2 txt files in this project: positive.txt and negative.txt
 
