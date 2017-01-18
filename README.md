@@ -49,7 +49,7 @@ Finally, then we create a score of our poritive and negative sentiment. positive
 
 An output .csv file is created with the positive and negative score of the tweets.
 
-The output graphs are also stored in the folder final_putput.
+The output graphs are also stored in the folder final_putput.zip.
 
 Hope this helps someone. Cheers!!
 
